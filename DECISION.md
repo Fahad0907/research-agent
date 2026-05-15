@@ -17,12 +17,12 @@
                             ▼
 ┌─────────────────────────────────────────────────────────────────┐
 │              CodebaseResearchAgent (Core Reasoning)             │
-│  ┌──────────────────────────────────────────────────────────┐  │
-│  │          Forced Tool Execution Strategy                  │  │
-│  │  Layer 1: Initial Structure (Mandatory)                  │  │
-│  │  Layer 2: Keyword-Based Fallback                        │  │
-│  │  Layer 3: LLM Tool Calling (Optional)                   │  │
-│  └──────────────────────────────────────────────────────────┘  │
+│  ┌──────────────────────────────────────────────────────────┐   │
+│  │          Forced Tool Execution Strategy                  │   │
+│  │  Layer 1: Initial Structure (Mandatory)                  │   │
+│  │  Layer 2: Keyword-Based Fallback                         │   │
+│  │  Layer 3: LLM Tool Calling (Optional)                    │   │
+│  └──────────────────────────────────────────────────────────┘   │
 └───────────────────────────┬─────────────────────────────────────┘
                             │
                             ▼
